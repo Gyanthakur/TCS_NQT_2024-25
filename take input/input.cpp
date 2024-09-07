@@ -144,7 +144,7 @@ int main()
         }
         arr.push_back(temp);
     }
-
+    cout << "2_d array is: " << endl;
     for (int i = 0; i < arr.size(); i++)
     {
         for (int j = 0; j < arr[0].size(); j++)
